@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SibuleloThabang
 - 👀 I’m interested in being a front-end web developer
 - 🌱 I’m currently learning Chemical Engineering and Software development(part time)
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - email - sibulelokt@gmail.com
 - phone - 0639825678
 
